@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "dpst_relay_omron")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty/dpst_relay_omron.pretty")(options "")(descr ""))
+  (lib (name "buck")(type "KiCad")(uri "${KIPRJMOD}/buck.pretty")(options "")(descr ""))
+  (lib (name "isolator")(type "KiCad")(uri "${KIPRJMOD}/BUCK_CONVERTER.pretty/isolator.pretty")(options "")(descr ""))
+  (lib (name "isolator1")(type "KiCad")(uri "${KIPRJMOD}/isolator1.pretty")(options "")(descr ""))
+)

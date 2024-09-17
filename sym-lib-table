@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "relay_G71")(type "KiCad")(uri "${KIPRJMOD}/relay_G71.kicad_sym")(options "")(descr ""))
+  (lib (name "relay_G71_omron")(type "KiCad")(uri "${KIPRJMOD}/relay_G71_omron.kicad_sym")(options "")(descr ""))
+)
